@@ -1,298 +1,143 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<img src="./assets/hero.svg" width="100%" alt="AI MLOps Cyberpunk Banner">
 
-<img src="./assets/profile-banner.jpg" width="100%" alt="Cyberpunk MLOps Banner"/>
+</div>
 
-<br>
+<div align="center">
 
-# ⚙️ `HELLO, WORLD.`
+# ⚡ YOUR NAME
 
-### `Name`
+**AI Developer · ML Engineer · MLOps Learner**
 
-**`ML Engineer` · `MLOps Engineer` · `AI Developer`**
-
-`BUILD` → `TRAIN` → `DEPLOY` → `MONITOR`
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+`Python` · `PyTorch` · `YOLO` · `OpenCV` · `Docker` · `Linux` · `Hugging Face` · `Ollama` · `ChromaDB`
 
 </div>
 
 ---
 
-## `> SYSTEM.initialize()`
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    AI ENGINEER PROFILE                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS       : ONLINE                                       │
-│  SPECIALTY    : MACHINE LEARNING / MLOps                     │
-│  ENVIRONMENT  : Linux / Docker / Cloud                       │
-│  CURRENT MODE : LEARNING                                     │
-│                                                              │
-│  OBJECTIVE                                                   │
-│  └─ Build reliable AI systems from data to production.       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="./assets/profile.svg" width="100%" alt="Profile HUD">
 
-> 🧠 데이터를 이해하고, 모델을 만들고, 실제 서비스까지 연결하는 AI 엔지니어를 목표로 하고 있습니다.
+</div>
+
+## 🧠 SYSTEM / ABOUT ME
+
+> AI와 MLOps를 공부하면서 **직접 실행되는 시스템**을 만드는 것을 목표로 하고 있습니다.  
+> 데이터 분석 → 모델 학습 → 추론 → 컨테이너화 → 배포/모니터링까지 연결하는 흐름을 익히는 중입니다.
+
+- 🔭 Currently building: **Local AI Assistant / Computer Vision / RAG**
+- 🌱 Currently learning: **MLOps / Kubernetes / CI/CD / Model Serving**
+- 🧪 Interested in: **LLM, RAG, Computer Vision, Automation**
+- 🐧 Environment: **Linux / Docker / CUDA**
+- ⚡ Motto: **Build → Train → Deploy → Monitor**
 
 ---
-
-# `01 // TECH STACK`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
-
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision / LLM
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-`OpenCV` · `YOLO` · `Hugging Face` · `Ollama`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data / Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-`Pandas` · `NumPy` · `PostgreSQL` · `Chroma`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ MLOps / DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,aws"/>
-
-`Docker` · `Kubernetes` · `Linux` · `Git` · `MLflow`
-
-</td>
-</tr>
-</table>
-
----
-
-# `02 // CURRENTLY LEARNING`
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗███╗   ██╗       ║
-║  ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║       ║
-║  ██████╔╝██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║       ║
-║  ██╔═══╝ ██║   ██║██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╗██║       ║
-║  ██║     ╚██████╔╝██║     ██║  ██║███████╗██║ ╚████║       ║
-║  ╚═╝      ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝       ║
-║                                                            ║
-║  Kubernetes  ███████████░░░░                               ║
-║  CI / CD     █████████░░░░░░                               ║
-║  MLflow      ████████░░░░░░░                               ║
-║  LLM Serving ███████░░░░░░░░                               ║
-║  Monitoring  ██████░░░░░░░░░                               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `03 // FEATURED PROJECTS`
-
-### 🚨 PROJECT_001 — Real-Time Object Detection
-
-> YOLO 기반 실시간 객체 탐지 시스템
-
-```text
-Camera
-   │
-   ▼
-OpenCV
-   │
-   ▼
-YOLO
-   │
-   ▼
-FastAPI
-   │
-   ▼
-Docker
-   │
-   ▼
-Production
-```
-
-`Python` `YOLO` `OpenCV` `FastAPI` `Docker`
-
----
-
-### ⚡ PROJECT_002 — MLOps Pipeline
-
-> 모델 학습부터 배포까지 자동화하는 ML Pipeline
-
-```text
-DATA
- │
- ▼
-TRAINING
- │
- ▼
-MLflow
- │
- ▼
-MODEL REGISTRY
- │
- ▼
-Docker
- │
- ▼
-Kubernetes
- │
- ▼
-MONITORING
-```
-
-`Python` `PyTorch` `MLflow` `Docker` `Kubernetes`
-
----
-
-### 🤖 PROJECT_003 — Local AI Assistant
-
-> Ollama + Vector DB 기반 로컬 AI Assistant
-
-```text
-USER
- │
- ▼
-LLM
- │
- ├──── Vector DB
- │          │
- │          ▼
- │       Retrieval
- │
- ▼
-RESPONSE
-```
-
-`Python` `Ollama` `Chroma` `LangChain`
-
----
-
-# `04 // GITHUB ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" width="49%"/>
+<img src="./assets/stack.svg" width="100%" alt="Technology Stack">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" width="49%"/>
+</div>
 
-<br><br>
+## 🚀 FEATURED PROJECTS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+<div align="center">
+
+<img src="./assets/projects.svg" width="100%" alt="Featured Projects">
+
+</div>
+
+### 01 · Local AI Assistant
+- Ollama 기반 로컬 LLM
+- ChromaDB Vector Search
+- RAG 기반 질의응답
+- 대화 기록 / 문서 검색
+
+### 02 · Computer Vision System
+- YOLO 기반 Object Detection
+- OpenCV 영상 처리
+- 실시간 추론 파이프라인
+- Docker 실행 환경
+
+### 03 · MLOps Pipeline
+- 모델 학습 환경 컨테이너화
+- 실험 / 모델 관리
+- Serving 및 모니터링 학습
+- 향후 CI/CD + Kubernetes 확장
+
+---
+
+<div align="center">
+
+<img src="./assets/terminal.svg" width="100%" alt="Animated Terminal">
+
+</div>
+
+## 📊 GITHUB ACTIVITY
+
+> GitHub의 실제 통계 이미지를 추가하고 싶다면 아래 영역에 원하는 stats 서비스의 이미지를 넣으시면 됩니다.
+
+<div align="center">
+
+<!-- 예시:
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180">
+-->
 
 </div>
 
 ---
 
-# `05 // CONTRIBUTION MATRIX`
+## 🧩 CURRENT LEARNING
 
-<div align="center">
+```text
+MLOps            ███████████████░░░  80%
+Linux / Docker   ████████████████░░  85%
+Computer Vision  ██████████████░░░░  75%
+LLM / RAG        █████████████░░░░░  70%
+Kubernetes       ████████░░░░░░░░░░  40%
+CI/CD            ███████░░░░░░░░░░░  35%
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+## 🛠️ TOOLBOX
 
-</div>
+| Category | Tools |
+|---|---|
+| Language | Python, SQL, Bash |
+| ML | PyTorch, Scikit-learn |
+| Vision | OpenCV, YOLO, Ultralytics |
+| LLM | Hugging Face, Ollama |
+| RAG | ChromaDB, Embeddings |
+| Data | Pandas, NumPy, Matplotlib |
+| MLOps | Docker, Linux, Git |
+| Environment | JupyterLab, VS Code, PyCharm |
 
 ---
 
-# `06 // TERMINAL`
+## 📡 SYSTEM LOG
 
-```bash
-$ whoami
-
-Your Name
-
-$ cat mission.txt
-
-> Build AI systems.
-> Automate everything possible.
-> Deploy models reliably.
-> Keep learning.
-
-$ systemctl status motivation
-
-● motivation.service - Keep Going
-   Active: active (running)
-
-$ _
+```text
+[BOOT] neural-profile initialized
+[ OK ] Python environment
+[ OK ] Linux environment
+[ OK ] Docker environment
+[ OK ] Computer Vision stack
+[ OK ] Local LLM stack
+[ OK ] Vector DB
+[RUN ] MLOps learning pipeline
 ```
 
 ---
 
-# `07 // MORE ABOUT ME`
-
 <div align="center">
 
-| 🧠 AI | 💻 Coding | ☕ Coffee | 🎵 Music | 🎮 Games |
-| :---: | :-------: | :------: | :------: | :------: |
-|   🤖  |   `</>`   |     ☕    |     ♪    |    🎮    |
-
-<br>
-
-**`BUILD SOMETHING.`**
-
-`LEARN → EXPERIMENT → BREAK → FIX → DEPLOY`
+<img src="./assets/footer.svg" width="100%" alt="Cyberpunk Footer">
 
 </div>
 
----
-
-# `08 // CONNECT`
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
-</a>
-
-<br><br>
-
-### `████████████████████████████████████████`
-
-### `THANK YOU FOR VISITING MY PROFILE ⚡`
-
-<img src="./assets/neon-border.gif" width="100%" alt="Neon Footer"/>
+### `01001001 01000001` · KEEP LEARNING · KEEP BUILDING
 
 </div>
