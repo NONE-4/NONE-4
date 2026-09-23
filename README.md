@@ -2,7 +2,7 @@
 
 <!-- ==================== HERO ==================== -->
 
-<img src="./assets/profile-banner.gif" width="100%" alt="Cyberpunk MLOps Banner"/>
+<img src="./assets/profile-banner.jpg" width="100%" alt="Cyberpunk MLOps Banner"/>
 
 <br>
 
