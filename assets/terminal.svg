@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs><linearGradient id="g"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff29d9"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="18" fill="#02050c" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="30" cy="30" r="6" fill="#ff29d9"/><circle cx="52" cy="30" r="6" fill="#8a5cff"/><circle cx="74" cy="30" r="6" fill="#00eaff"/>
+  <text x="100" y="35" fill="#7084ad" font-family="monospace" font-size="14">user@neural-node: ~</text>
+  <g font-family="monospace" font-size="15">
+    <text x="40" y="78" fill="#ff29d9">&gt; echo "Hello, GitHub."</text>
+    <text x="40" y="104" fill="#dbe7ff">Hello, GitHub.</text>
+    <text x="40" y="140" fill="#ff29d9">&gt; python train.py --model vision --device cuda</text>
+    <text x="40" y="166" fill="#00eaff">[INFO] loading dataset............. OK</text>
+    <text x="40" y="190" fill="#00eaff">[INFO] training................... RUNNING</text>
+    <text x="40" y="214" fill="#8a5cff">[INFO] loss 0.0842 | mAP 0.917</text>
+    <text x="40" y="250" fill="#7df8ff">&gt; build_ai_systems <tspan fill="#ff29d9">█</tspan><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></text>
+  </g>
+  <g transform="translate(850 75)" fill="none" stroke="#00eaff" opacity=".8">
+    <circle cx="100" cy="65" r="55"/><circle cx="100" cy="65" r="35"/><path d="M100 0v25M100 105v25M35 65H10M190 65h-25M54 19l18 18M146 111l18 18M54 111l18-18M146 19l-18 18"/>
+    <path d="M82 65h36M100 47v36"/>
+  </g>
+</svg>

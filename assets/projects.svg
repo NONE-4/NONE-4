@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+  <defs><linearGradient id="g"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff29d9"/></linearGradient></defs>
+  <rect width="1200" height="470" rx="18" fill="#050814" stroke="url(#g)" stroke-width="3"/>
+  <text x="40" y="48" fill="#7df8ff" font-family="Arial" font-size="25" font-weight="700">FEATURED PROJECTS // ACTIVE MODULES</text>
+  <g font-family="Arial">
+    <g fill="#07162d" stroke="#2058a8">
+      <rect x="40" y="78" width="350" height="340" rx="14"/><rect x="425" y="78" width="350" height="340" rx="14"/><rect x="810" y="78" width="350" height="340" rx="14"/>
+    </g>
+    <g fill="#00eaff" font-size="20" font-weight="700">
+      <text x="65" y="120">01 / LOCAL AI ASSISTANT</text><text x="450" y="120">02 / VISION SYSTEM</text><text x="835" y="120">03 / MLOps PIPELINE</text>
+    </g>
+    <g fill="#b8c7e8" font-size="15">
+      <text x="65" y="155">Ollama + ChromaDB 기반</text><text x="65" y="180">로컬 RAG AI 비서</text><text x="65" y="215">• local LLM</text><text x="65" y="240">• vector search</text><text x="65" y="265">• conversation memory</text>
+      <text x="450" y="155">YOLO + OpenCV 기반</text><text x="450" y="180">실시간 객체 탐지</text><text x="450" y="215">• detection</text><text x="450" y="240">• tracking</text><text x="450" y="265">• video pipeline</text>
+      <text x="835" y="155">Docker 중심의</text><text x="835" y="180">모델 학습 / 배포 자동화</text><text x="835" y="215">• training</text><text x="835" y="240">• serving</text><text x="835" y="265">• monitoring</text>
+    </g>
+    <g font-family="monospace" font-size="13">
+      <text x="65" y="330" fill="#ff29d9">STATUS</text><text x="130" y="330" fill="#7df8ff">BUILDING</text>
+      <text x="450" y="330" fill="#ff29d9">STATUS</text><text x="515" y="330" fill="#7df8ff">EXPERIMENT</text>
+      <text x="835" y="330" fill="#ff29d9">STATUS</text><text x="900" y="330" fill="#7df8ff">LEARNING</text>
+    </g>
+    <g stroke="#00eaff" stroke-width="5">
+      <path d="M65 365h250"/><path d="M450 365h250"/><path d="M835 365h250"/>
+    </g>
+  </g>
+</svg>

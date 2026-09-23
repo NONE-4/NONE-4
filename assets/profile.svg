@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff29d9"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="4" y="4" width="1192" height="292" rx="18" fill="#050814" stroke="url(#g)" stroke-width="3"/>
+  <path d="M28 58H280M920 58h252" stroke="#00eaff" stroke-width="2" opacity=".7"/>
+  <circle cx="92" cy="151" r="62" fill="#091b42" stroke="#00eaff" stroke-width="3" filter="url(#glow)"/>
+  <circle cx="92" cy="135" r="25" fill="none" stroke="#8a5cff" stroke-width="4"/>
+  <path d="M45 205q47-66 94 0" fill="none" stroke="#ff29d9" stroke-width="4"/>
+  <g font-family="Arial, sans-serif">
+    <text x="180" y="72" fill="#7df8ff" font-size="17" letter-spacing="4">IDENTITY / PROFILE</text>
+    <text x="180" y="122" fill="white" font-size="38" font-weight="700">YOUR NAME</text>
+    <text x="180" y="154" fill="#b8c7e8" font-size="17">AI Developer • ML Engineer • MLOps Learner</text>
+    <text x="180" y="188" fill="#7df8ff" font-size="15">Python / PyTorch / YOLO / Docker / Linux / LLM / RAG</text>
+    <text x="180" y="225" fill="#8f9fbd" font-size="14">Building practical AI systems, one experiment at a time.</text>
+  </g>
+  <g font-family="monospace" font-size="13">
+    <rect x="785" y="78" width="345" height="145" rx="12" fill="#02050d" stroke="#234e9b"/>
+    <text x="808" y="105" fill="#ff29d9">&gt; whoami</text>
+    <text x="808" y="130" fill="#00eaff">role: AI / MLOps</text>
+    <text x="808" y="153" fill="#00eaff">mode: learning</text>
+    <text x="808" y="176" fill="#00eaff">status: ONLINE</text>
+    <text x="808" y="199" fill="#8a5cff">mission: BUILD_AI_SYSTEMS</text>
+    <text x="808" y="221" fill="#7df8ff">cursor █<animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/></text>
+  </g>
+</svg>

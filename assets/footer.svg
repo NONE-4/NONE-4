@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <defs><linearGradient id="g"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff29d9"/></linearGradient></defs>
+  <rect width="1200" height="150" rx="18" fill="#050814" stroke="url(#g)" stroke-width="3"/>
+  <path d="M25 75H310l25-25 25 50 25-50 25 25h455" fill="none" stroke="#00eaff" stroke-width="3"/>
+  <text x="600" y="82" text-anchor="middle" fill="url(#g)" font-family="Arial" font-size="26" font-weight="800" letter-spacing="4">THANKS FOR VISITING // KEEP BUILDING</text>
+  <text x="600" y="112" text-anchor="middle" fill="#7084ad" font-family="monospace" font-size="13">AI • MLOps • COMPUTER VISION • LLM • RAG</text>
+</svg>

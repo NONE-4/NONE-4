@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs><linearGradient id="g"><stop stop-color="#00eaff"/><stop offset=".5" stop-color="#8a5cff"/><stop offset="1" stop-color="#ff29d9"/></linearGradient></defs>
+  <rect width="1200" height="430" rx="18" fill="#050814" stroke="url(#g)" stroke-width="3"/>
+  <text x="40" y="48" fill="#7df8ff" font-family="Arial" font-size="25" font-weight="700">TECH STACK // NEURAL LOADOUT</text>
+  <g font-family="Arial" font-size="16">
+    <g fill="#07162d" stroke="#1c5aa8">
+      <rect x="40" y="75" width="350" height="145" rx="14"/><rect x="425" y="75" width="350" height="145" rx="14"/><rect x="810" y="75" width="350" height="145" rx="14"/>
+      <rect x="40" y="245" width="350" height="145" rx="14"/><rect x="425" y="245" width="350" height="145" rx="14"/><rect x="810" y="245" width="350" height="145" rx="14"/>
+    </g>
+    <g fill="#00eaff" font-weight="700">
+      <text x="62" y="105">AI / ML</text><text x="447" y="105">COMPUTER VISION</text><text x="832" y="105">LLM / RAG</text>
+      <text x="62" y="275">DATA</text><text x="447" y="275">MLOps / DEVOPS</text><text x="832" y="275">TOOLS</text>
+    </g>
+    <g fill="#dbe7ff">
+      <text x="62" y="140">Python   PyTorch   Scikit-learn</text><text x="62" y="170">NumPy   Pandas   Jupyter</text><text x="62" y="200">Matplotlib   Seaborn</text>
+      <text x="447" y="140">OpenCV   YOLO   Ultralytics</text><text x="447" y="170">Image Processing   Detection</text><text x="447" y="200">Tracking   Classification</text>
+      <text x="832" y="140">Hugging Face   Ollama</text><text x="832" y="170">Embeddings   ChromaDB</text><text x="832" y="200">RAG   Prompt Engineering</text>
+      <text x="62" y="310">SQL   PostgreSQL   DataFrame</text><text x="62" y="340">EDA   Visualization   Analytics</text><text x="62" y="370">Feature Engineering</text>
+      <text x="447" y="310">Docker   Linux   Git</text><text x="447" y="340">CI/CD   Model Serving</text><text x="447" y="370">Monitoring   Experiment Tracking</text>
+      <text x="832" y="310">VS Code   PyCharm   GitHub</text><text x="832" y="340">Bash   REST API   FastAPI</text><text x="832" y="370">JupyterLab</text>
+    </g>
+  </g>
+</svg>
