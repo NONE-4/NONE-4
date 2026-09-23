@@ -1,73 +1,298 @@
 <div align="center">
 
-# Hi, I'm haemgu3114
+<!-- ==================== HERO ==================== -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Data+Analysis+Step+by+Step;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
+<img src="./assets/profile-banner.gif" width="100%" alt="Cyberpunk MLOps Banner"/>
 
-데이터를 직접 다뤄보고, 코드를 실행하면서 하나씩 배우고 있습니다.  
-Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 기록하고 있습니다.
+<br>
 
-</div>
+# ⚡ `HELLO, WORLD.`
 
----
+### `I'm Your Name`
 
-## About Me
+**`ML Engineer` · `MLOps Engineer` · `AI Developer`**
 
-- Python을 중심으로 프로그래밍을 학습하고 있습니다.
-- Jupyter Notebook으로 데이터 분석과 머신러닝 실습을 정리합니다.
-- 데이터 전처리, 시각화, 모델 학습 과정을 직접 구현하며 공부하고 있습니다.
-- Flask를 활용한 간단한 웹 애플리케이션도 실습하고 있습니다.
+`BUILD` → `TRAIN` → `DEPLOY` → `MONITOR`
 
-## Tech Stack
+<br>
 
-<div align="center">
-
-### Language & Data
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-### Machine Learning & Visualization
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
-
-### Web & Tools
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</div>
-
-## Study & Projects
-
-### Python / Data / Machine Learning
-
-[![Pyhon_workspace](https://img.shields.io/badge/Pyhon__workspace-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/haemgu3114/Pyhon_workspace)
-
-Python 기초 문법부터 pandas DataFrame, 데이터 전처리, Matplotlib·Seaborn 시각화, 머신러닝 기초까지 학습 내용을 기록하는 저장소입니다.
-
-### Git & GitHub Practice
-
-Git과 GitHub의 기본 흐름을 익히면서 commit, push, repository 관리 등을 연습하고 있습니다.
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haemgu3114&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haemgu3114&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 </div>
 
 ---
 
+## `> SYSTEM.initialize()`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    AI ENGINEER PROFILE                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  STATUS       : ONLINE                                       │
+│  SPECIALTY    : MACHINE LEARNING / MLOps                     │
+│  ENVIRONMENT  : Linux / Docker / Cloud                       │
+│  CURRENT MODE : LEARNING                                     │
+│                                                              │
+│  OBJECTIVE                                                    │
+│  └─ Build reliable AI systems from data to production.       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> 🧠 데이터를 이해하고, 모델을 만들고, 실제 서비스까지 연결하는 AI 엔지니어를 목표로 하고 있습니다.
+
+---
+
+# `01 // TECH STACK`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
+
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision / LLM
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+`OpenCV` · `YOLO` · `Hugging Face` · `Ollama`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data / Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+`Pandas` · `NumPy` · `PostgreSQL` · `Chroma`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ MLOps / DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,aws"/>
+
+`Docker` · `Kubernetes` · `Linux` · `Git` · `MLflow`
+
+</td>
+</tr>
+</table>
+
+---
+
+# `02 // CURRENTLY LEARNING`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗███╗   ██╗       ║
+║  ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║       ║
+║  ██████╔╝██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║       ║
+║  ██╔═══╝ ██║   ██║██╔═══╝ ██╔══██╗██╔══╝  ██║╚██╗██║       ║
+║  ██║     ╚██████╔╝██║     ██║  ██║███████╗██║ ╚████║       ║
+║  ╚═╝      ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝       ║
+║                                                              ║
+║  Kubernetes  ███████████░░░░                                ║
+║  CI / CD     █████████░░░░░░                                ║
+║  MLflow      ████████░░░░░░░                                ║
+║  LLM Serving ███████░░░░░░░░                                ║
+║  Monitoring  ██████░░░░░░░░░                                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `03 // FEATURED PROJECTS`
+
+### 🚨 PROJECT_001 — Real-Time Object Detection
+
+> YOLO 기반 실시간 객체 탐지 시스템
+
+```text
+Camera
+   │
+   ▼
+OpenCV
+   │
+   ▼
+YOLO
+   │
+   ▼
+FastAPI
+   │
+   ▼
+Docker
+   │
+   ▼
+Production
+```
+
+`Python` `YOLO` `OpenCV` `FastAPI` `Docker`
+
+---
+
+### ⚡ PROJECT_002 — MLOps Pipeline
+
+> 모델 학습부터 배포까지 자동화하는 ML Pipeline
+
+```text
+DATA
+ │
+ ▼
+TRAINING
+ │
+ ▼
+MLflow
+ │
+ ▼
+MODEL REGISTRY
+ │
+ ▼
+Docker
+ │
+ ▼
+Kubernetes
+ │
+ ▼
+MONITORING
+```
+
+`Python` `PyTorch` `MLflow` `Docker` `Kubernetes`
+
+---
+
+### 🤖 PROJECT_003 — Local AI Assistant
+
+> Ollama + Vector DB 기반 로컬 AI Assistant
+
+```text
+USER
+ │
+ ▼
+LLM
+ │
+ ├──── Vector DB
+ │          │
+ │          ▼
+ │       Retrieval
+ │
+ ▼
+RESPONSE
+```
+
+`Python` `Ollama` `Chroma` `LangChain`
+
+---
+
+# `04 // GITHUB ANALYTICS`
+
 <div align="center">
 
-### Keep learning, keep building.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# `05 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `06 // TERMINAL`
+
+```bash
+$ whoami
+
+Your Name
+
+$ cat mission.txt
+
+> Build AI systems.
+> Automate everything possible.
+> Deploy models reliably.
+> Keep learning.
+
+$ systemctl status motivation
+
+● motivation.service - Keep Going
+   Active: active (running)
+
+$ _
+```
+
+---
+
+# `07 // MORE ABOUT ME`
+
+<div align="center">
+
+| 🧠 AI | 💻 Coding | ☕ Coffee | 🎵 Music | 🎮 Games |
+| :---: | :-------: | :------: | :------: | :------: |
+|   🤖  |   `</>`   |     ☕    |     ♪    |    🎮    |
+
+<br>
+
+**`BUILD SOMETHING.`**
+
+`LEARN → EXPERIMENT → BREAK → FIX → DEPLOY`
+
+</div>
+
+---
+
+# `08 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
+</a>
+
+<br><br>
+
+### `████████████████████████████████████████`
+
+### `THANK YOU FOR VISITING MY PROFILE ⚡`
+
+<img src="./assets/neon-border.gif" width="100%" alt="Neon Footer"/>
 
 </div>
